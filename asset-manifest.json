@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/git%20remote%20add%20origin%20https://github.com/hemanthdorepalli/ecommerce-app.git/static/css/main.9bd1e999.css",
-    "main.js": "/git%20remote%20add%20origin%20https://github.com/hemanthdorepalli/ecommerce-app.git/static/js/main.56c43a0f.js",
-    "index.html": "/git%20remote%20add%20origin%20https://github.com/hemanthdorepalli/ecommerce-app.git/index.html",
-    "main.9bd1e999.css.map": "/git%20remote%20add%20origin%20https://github.com/hemanthdorepalli/ecommerce-app.git/static/css/main.9bd1e999.css.map",
-    "main.56c43a0f.js.map": "/git%20remote%20add%20origin%20https://github.com/hemanthdorepalli/ecommerce-app.git/static/js/main.56c43a0f.js.map"
+    "main.css": "/ecommerce-app/static/css/main.9bd1e999.css",
+    "main.js": "/ecommerce-app/static/js/main.56c43a0f.js",
+    "index.html": "/ecommerce-app/index.html",
+    "main.9bd1e999.css.map": "/ecommerce-app/static/css/main.9bd1e999.css.map",
+    "main.56c43a0f.js.map": "/ecommerce-app/static/js/main.56c43a0f.js.map"
   },
   "entrypoints": [
     "static/css/main.9bd1e999.css",
